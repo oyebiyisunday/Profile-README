@@ -22,16 +22,17 @@ Jest • Cheerio • Git/GitHub • Vercel • Railway • Supabase • Agile De
 ---
 
 ## 🚀 Featured Projects  
-*(Arranged Frontend → Full-Stack → Backend → Automation)*
 
 | Project | Tech | What It Shows |
 |--------|------|----------------|
-| 🔍 **Catalog Explorer** | React, React Query | Advanced UI/UX: filtering, pagination, caching, error handling |
-| 📱 **GoMarket Marketplace** | React Native, Expo, Express, PostgreSQL | Full-stack mobile+web app with RBAC & real-time inventory |
+| 📱 **GoMarket Marketplace** | React Native, Expo, Express, PostgreSQL | Mobile + web retail platform with RBAC & real-time inventory |
+| 🔍 **Catalog Explorer** | React, React Query | Resilient API consumption, filtering, pagination, caching |
 | 🏦 **Banking Database System** | SQL Server, T-SQL | ACID transactions, triggers, stored procedures, auditing |
-| 🎤 **PopVortex CLI Scraper** | Node.js, Cheerio, Jest | Automation + parsing + offline fixture testing |
+| 🎤 **PopVortex CLI Scraper** | Node.js, Cheerio, Jest | Automation, parsing, offline fixture testing |
 
-👉 Check pinned repos below for code, docs & screenshots!
+
+
+👉 Check pinned repos  for code, docs & screenshots!
 
 ---
 
