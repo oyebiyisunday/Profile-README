@@ -5,9 +5,9 @@
 **Full-Stack Software Engineer**  
 Building scalable **mobile and web applications** with strong **backend APIs** and **data-driven systems**. 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oyebiyisunday)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oyebiyisunday@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![LinkedIn]](https://linkedin.com/in/oyebiyisunday)
+[![Email](mailto:oyebiyisunday@gmail.com)
+[![Portfolio](https://drive.google.com/drive/folders/16nNvBR87lNVhjOThLqHqdutUg0G6kaCg?usp=drive_link)](#)
 
 </div>
 
