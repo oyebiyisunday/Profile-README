@@ -40,4 +40,3 @@ Jest • Cheerio • Web Scraping • Git • Vercel • Railway • Supabase
 ---
 
 > _I build products that connect data, systems, and people._
-# Profile-README
