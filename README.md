@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Sunday Oyebiyi
+# 👋 Hi, I'm Sunday Oyebiyi  
 **Full-Stack Software Engineer**  
 I build scalable **mobile and web apps** with strong **backend APIs** and **data-driven systems**.
 
@@ -10,46 +10,47 @@ I build scalable **mobile and web apps** with strong **backend APIs** and **data
 
 ## 💻 Tech I Work With
 
-**Frontend**
-React • React Native (Expo) • TypeScript • React Query • Redux Toolkit • HTML/CSS
+**Frontend**  
+React • React Native (Expo) • TypeScript • React Query • Redux Toolkit • HTML • CSS
 
-**Backend**
-Node.js • Express.js • SQL Server • PostgreSQL • REST APIs • Authentication
+**Backend**  
+Node.js • Express.js • SQL Server • PostgreSQL • REST APIs • Authentication • Authorization
 
-**Other Skills**
-Jest • Cheerio • Git/GitHub • Vercel • Railway • Supabase
+**Tools & Practices**  
+Jest • Cheerio • Git/GitHub • Vercel • Railway • Supabase • Agile Development
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Stack | Description |
-|--------|-------|-------------|
-| 🏦 **Banking Database System** | SQL Server, T-SQL | ACID transactions, triggers, auditing, secure schema design |
-| 📱 **GoMarket Marketplace** | React Native, Expo, Express, PostgreSQL | Cross-platform retail app with RBAC + real-time inventory |
-| 🔍 **Catalog Explorer** | React, React Query | Advanced filtering, pagination, caching + telemetry |
-| 🎤 **PopVortex CLI Scraper** | Node.js, Cheerio, Jest | Automated chart scraping with offline test fixtures |
+| Project | Tech | What It Shows |
+|--------|------|----------------|
+| 🏦 **Banking Database System** | SQL Server, T-SQL | ACID transactions, triggers, auditing — enterprise data integrity |
+| 📱 **GoMarket Marketplace** | React Native, Expo, Express, PostgreSQL | Mobile + web retail platform with RBAC & real-time inventory |
+| 🔍 **Catalog Explorer** | React, React Query | Resilient API consumption, filtering, pagination, caching |
+| 🎤 **PopVortex CLI Scraper** | Node.js, Cheerio, Jest | Automation, parsing, offline fixture testing |
 
-👉 Visit pinned repositories below to explore code and details!
+👉 Check my pinned repos below for code and documentation!
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Expanding Skills In
 
-GraphQL • Docker • CI/CD Pipelines
+GraphQL • Docker • CI/CD automation
 
 ---
 
 ## 🤝 Connect with Me
 
-[LinkedIn](https://linkedin.com/in/oyebiyisunday) • [Email](mailto:oyebiyisunday@gmail.com)
+🔗 LinkedIn: **https://www.linkedin.com/in/sunday-oyebiyi/**  
+📧 Email: **oyebiyisunday@gmail.com**
 
 ---
 
 <div align="center">
 
-⚡ _"I build products that connect data, systems, and people."_
-
-![Profile Views](https://komarev.com/ghpvc/?username=oyebiyisunday&color=brightgreen&style=flat-square)
+⚡ _"I build products that connect data, systems, and people."_ ⚡  
+<br>
+<img src="https://komarev.com/ghpvc/?username=oyebiyisunday&color=brightgreen&style=flat-square" />
 
 </div>
