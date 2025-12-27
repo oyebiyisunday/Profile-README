@@ -108,8 +108,6 @@ currently_learning: GraphQL, Docker, CI/CD pipelines
 
 ## 🌱 Currently Learning
 - **GraphQL** for flexible APIs
-- **Docker** for containerization
-- **GitHub Actions** for CI/CD
 
 ---
 
