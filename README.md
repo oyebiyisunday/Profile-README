@@ -53,6 +53,6 @@ GraphQL • Docker • CI/CD automation
 
 ⚡ _"I build products that connect data, systems, and people."_ ⚡  
 <br>
-<img src="https://komarev.com/ghpvc/?username=oyebiyisunday&color=brightgreen&style=flat-square" />
+
 
 </div>
