@@ -17,7 +17,7 @@ React • React Native (Expo) • TypeScript • React Query • Redux Toolkit �
 Node.js • Express.js • SQL Server • PostgreSQL • REST APIs • Authentication • Authorization
 
 **Tools & Practices**  
-Jest • Cheerio • Git/GitHub • Vercel • Railway • Supabase • Agile Development
+Jest • Cheerio • Git/GitHub • Vercel • Railway • AWS • Supabase • Agile Development
 
 ---
 
