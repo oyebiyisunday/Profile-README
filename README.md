@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Sunday
 
 **Full-Stack Software Engineer**  
-I build scalable **mobile and web applications** with secure backend APIs and production-ready SQL databases.
+I build scalable **mobile and web applications** with secure backend APIs and production-ready SQL databases. 
 
 ---
 
 ### 🔥 What I Work With
 - **Frontend:** React, React Native (Expo), React Query, TypeScript  
-- **Backend:** Node.js, Express.js, REST APIs  
+- **Backend:** Node.js, Express.js, REST APIs, Java  
 - **Databases:** PostgreSQL, SQL Server, ACID Transactions  
-- **Testing & Tooling:** Jest, Cheerio, Git, CI/CD  
+- **Testing & Tooling:** Jest, JUnit 5, Maven, Git, CI/CD  
 - **Deployment:** Vercel, Railway, Supabase
 
 ---
@@ -19,6 +19,7 @@ I build scalable **mobile and web applications** with secure backend APIs and pr
 | Project | Stack | Description |
 |--------|------|-------------|
 | **GoMarket Marketplace App** | React Native, Expo, Node.js, PostgreSQL | Multi-platform commerce app with role-based access control |
+| **Java Algorithms & OOP Portfolio** | Java, JUnit 5, Maven, GitHub Actions | Algorithmic problem-solving with recursion, sorting, OOP design patterns, polymorphism, and automated CI testing |
 | **Banking Management System** | SQL Server, T-SQL | ACID, stored procedures, triggers, audit logging |
 | **Catalog Explorer** | React, React Query | Filtering, pagination, data caching & stale-while-revalidate |
 | **Rap Chart Scraper** | Node.js, Cheerio | CLI tool with automated HTML parsing & Jest tests |
@@ -27,7 +28,7 @@ I build scalable **mobile and web applications** with secure backend APIs and pr
 
 ---
 
-📫 **Let’s Connect**
+📫 **Let's Connect**
 - Email: oyebiyisunday@gmail.com  
 - LinkedIn: https://linkedin.com/in/oyebiyisunday
 
